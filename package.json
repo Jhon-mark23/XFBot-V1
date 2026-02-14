@@ -1,0 +1,18 @@
+{
+  "name": "express-facebook-bot",
+  "version": "1.0.0",
+  "description": "Express.js Facebook Bot for Vercel",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
