@@ -8,7 +8,7 @@ const app = express();
 // CONFIGURATION - UPDATE THESE VALUES
 // ============================================
 const PAGE_ACCESS_TOKEN = 'EAAasEsQYWhMBQlZAEZCHe3Y4bZAirZCL2MO4Asb2Ef9WZAZCHITruIVuhrKJznct1xI0iUUFdH90bZBoBhVlCpaB0JKJaG5pZBU0qgaAk6nEfXU2b11LvFGQQ1nV9KUA3tadYfk1ZBpjNRgEPeDFUR1LnMtiZA3veuW88P4cV8tjaLnsrWnkMNiSpKW2pqPbbbjWIKkuAUgwZDZD';
-const VERIFY_TOKEN = 'mytoken'; // MUST match what you put in Facebook App
+const VERIFY_TOKEN = 'mytoken1'; // MUST match what you put in Facebook App
 
 // ============================================
 // MIDDLEWARE
