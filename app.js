@@ -8,7 +8,7 @@ const app = express();
 // ============================================
 // CONFIGURATION
 // ============================================
-const PAGE_ACCESS_TOKEN = 'EAAasEsQYWhMBQuC062jI0yxDTl4gedGiH0srTqwHH6hBMwl7HEOQ3OO6fkRbZCcaH7yB5pCu9hfSJ5KnvkKK5lpwQqLFFiMZC0A3STZANk5KOet6jKowcvtkWLBvKsa8HnTeZAiXjYENMcvhyK8W4oBAafopg0VxdxGLzJvjDOF3cgi3NitJ0D5ZAAVa2B8fADFuSBQZDZD';
+const PAGE_ACCESS_TOKEN = 'EAAasEsQYWhMBQsV3KUGYf4SKZBtIYwTApQqW3hf79gAsVZBrAMV3TWjxmZAr6JcSFagF1MdTfsNdHk4ZBUayBLuhP2GDSbdvtPzRM3n8Y9zakwQZCiObZB77cnRdkDwyUBWtedPZBP06DRcCZBxvQyhkRG4ejdFqTiD0usOzeGU17zTbUwItoSq5NYxRHsunvXjpnPN5LQZDZD';
 const VERIFY_TOKEN = 'mytoken'; // Change this!
 const APP_SECRET = 'mysecret'; // Optional but recommended
 const PORT = process.env.PORT || 3000;
